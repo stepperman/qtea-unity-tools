@@ -1,0 +1,10 @@
+namespace QTea
+{
+	/// <summary>
+	/// ADD CLASS SUMMARY!
+	/// </summary>
+	public interface #SCRIPTNAME#
+	{
+
+	}
+}
