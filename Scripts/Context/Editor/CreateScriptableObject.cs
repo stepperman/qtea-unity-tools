@@ -59,7 +59,7 @@ namespace DN.Editor
 					!t.IsAbstract &&
 					s.IsAssignableFrom(t) && 
 					!string.IsNullOrEmpty(t.Namespace) && 
-					t.Namespace.StartsWith("DN"))
+					t.Namespace.StartsWith(QTea.Globals.Namespace))
 				);
 			}
 
